@@ -15,16 +15,17 @@
 - [X] Educational projects
 - [X] Projects that use deep learning for athlete performance
 
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brunoluizmendes)
-  
+
 </p>
   <p align=center>
- <img width="100px" src="https://raw.githubusercontent.com/dataeasy-digital/dataeasy/main/dataset/untitled.svg" align="center" alt="GitHub Readme Stats" />
-<a href="brunoluizmendes.medium.com">See my blog</a>
+ <img width="100px" src="https://raw.githubusercontent.com/dataeasy-digital/dataeasy/main/dataset/untitled.svg" align="left" alt="GitHub Readme Stats" />
 </p>  
   
+https://brunoluizmendes.medium.com
+<br>
+https://www.linkedin.com/in/brunoluizmendes/
+<br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brunoluizmendes)
   
-
-
 
 
