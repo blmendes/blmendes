@@ -3,8 +3,8 @@
 
   <p align=center>
     <a target="_blank" href="#" title="python"><img src="https://img.shields.io/static/v1?label=Python&message=aways&color=success"></a>
-  <a target="_blank" href="#" title="student"><img src="https://img.shields.io/static/v1?label=MIT&message=Student&color=yellow"></a>
-  <a target="_blank" href="#" title="time"><img src="https://img.shields.io/static/v1?label=Free Time &message=0(%)&color=red"></a>
+  <a target="_blank" href="#" title="student"><img src="https://img.shields.io/static/v1?label=MIT&message=Student&color=informational"></a>
+  <a target="_blank" href="#" title="time"><img src="https://img.shields.io/static/v1?label=Free Time &message=0(%)&color=critical"></a>
 </p>
 
 
