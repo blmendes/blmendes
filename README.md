@@ -1,5 +1,4 @@
 # Bruno Luiz Mendes 
-## Data Scientist
 ### I'm just trying to turn my thoughts into lines of code, see my major project: dataeasy.app 
 
   <p align=center>
