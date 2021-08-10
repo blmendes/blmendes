@@ -5,6 +5,8 @@
     <a target="_blank" href="#" title="python"><img src="https://img.shields.io/static/v1?label=Python&message=aways&color=success"></a>
   <a target="_blank" href="#" title="student"><img src="https://img.shields.io/static/v1?label=MIT&message=Student&color=informational"></a>
   <a target="_blank" href="#" title="time"><img src="https://img.shields.io/static/v1?label=Free Time &message=0(%)&color=critical"></a>
+  <a target="_blank" href="#" title="time"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fblmendes%2FMy-Basketball-Shots-AI"></a>
+  
 </p>
 
 
