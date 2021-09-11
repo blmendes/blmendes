@@ -15,9 +15,9 @@
 - [X] Educational projects
 - [X] Projects that use deep learning for athlete performance
 
-## ⛩ Seja um dos contribuidores<br>
+## ⛩ Be one of <br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
+I'm very creative and I have a lot of ideas that if there were more people I would certainly generate some value, want to know more? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.<br>
   
 
 </p>
