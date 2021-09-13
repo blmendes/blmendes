@@ -30,6 +30,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
   <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/sql/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></a>
+  <a href="https://airflow.apache.org/docs/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /></a>
 <a href="https://www.aws.com/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /></a>  
 
   
