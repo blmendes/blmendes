@@ -46,8 +46,7 @@
 
 I'm very creative and I have a lot of ideas that if there were more people I would certainly generate some value, want to know more? Click [here](CONTRIBUTING.md)<br>
   
-  
-  
+ 
   
 </p>
   <p align=center>
