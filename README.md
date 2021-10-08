@@ -10,8 +10,6 @@
   <a target="_blank" href="#" title="brunoluizmendes"><img src="https://img.shields.io/badge/-brunoluizmendes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoluizmendes/"></a>
     <a target="_blank" href="#" title="brunoluizmendes"><img src="https://img.shields.io/github/followers/blmendes?label=follow&style=social"></a>
   
-  
-
 
 #### I'm looking to collaborate on projects about:
 - [ ] Business and investment analysis
