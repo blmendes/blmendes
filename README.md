@@ -1,5 +1,5 @@
 # Bruno Luiz Mendes 
-### I'm just trying to turn my thoughts into lines of code, see my major project: dataeasy.app 
+### _I'm just trying to turn my thoughts into lines of code_
 
 
   <p align=center>
@@ -28,6 +28,9 @@
 <a href="https://www.w3schools.com/sql/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></a> <br><br>
   <a href="https://airflow.apache.org/docs/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" /></a> 
 <a href="https://www.aws.com/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /></a>  
+<a href="https://www.aws.com/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://camo.githubusercontent.com/cbd55750b53c01dc18830d377c7364b01077e8a675a79d454a3f1ea549efe129/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" /></a>  
+
+
 
 <br />
 
