@@ -51,6 +51,9 @@ I'm very creative and I have a lot of ideas that if there were more people I wou
 https://brunoluizmendes.medium.com
 <br>
 https://www.linkedin.com/in/brunoluizmendes/
+<br>
+https://blmendes.github.io
+
 <br><br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brunoluizmendes)
   
